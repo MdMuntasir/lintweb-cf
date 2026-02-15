@@ -146,7 +146,7 @@
         {
             "pattern": "*build-preview.cloudflare.dev/*",
             "custom_domain": false,
-            "zone_id": "db01fac4261b2604aacad8410443a3e2"
+            "zone_id": "538d298f204161561c7431999e6bb858"
         }
     ],
 	"vars": {
